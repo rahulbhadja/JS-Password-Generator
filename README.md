@@ -1,3 +1,3 @@
 # JS-Password-Generator
-##Live 
+## Live 
 https://jspassword-generator.netlify.app/
